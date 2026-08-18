@@ -19,11 +19,11 @@
 
 ## What I Do
 
-- 🔹 Design and implement database-driven systems
-- 🔹 Build responsive web applications
-- 🔹 Develop interactive applications and educational games
-- 🔹 Apply software engineering practices throughout the development lifecycle
-- 🔹 Continuously learn and adapt to emerging technologies
+🔹 Design and implement database-driven systems
+🔹 Build responsive web applications
+🔹 Develop interactive applications and educational games
+🔹 Apply software engineering practices throughout the development lifecycle
+🔹 Continuously learn and adapt to emerging technologies
 
 ---
 
